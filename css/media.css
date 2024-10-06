@@ -1,0 +1,14 @@
+@media (max-width: 1200px) {
+    .navbar_collaction{
+        display: none;
+    }
+    .navbar_menu{
+        display: flex;
+    }
+    
+    }
+    @media (max-width: 650px){
+        .navbar_icons{
+            display: none;
+        }
+    }
